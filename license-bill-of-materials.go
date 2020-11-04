@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/coreos/license-bill-of-materials/assets"
+	"github.com/appscodelabs/license-bill-of-materials/assets"
 )
 
 // Template holds pre-constructed license template info

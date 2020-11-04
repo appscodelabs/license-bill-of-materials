@@ -1,6 +1,6 @@
 [
 	{
-		"project": "github.com/coreos/license-bill-of-materials",
+		"project": "github.com/appscodelabs/license-bill-of-materials",
 		"licenses": [
 			{
 				"type": "MIT License",
@@ -9,7 +9,7 @@
 		]
 	},
 	{
-		"project": "github.com/coreos/license-bill-of-materials/assets",
+		"project": "github.com/appscodelabs/license-bill-of-materials/assets",
 		"licenses": [
 			{
 				"type": "The Unlicense",
